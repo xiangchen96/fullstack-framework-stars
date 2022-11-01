@@ -31,6 +31,12 @@ A list of popular github projects related to Fullstack web frameworks (ranked by
 - [blitz](https://github.com/blitz-js/blitz): ⚡️ The Missing Fullstack Toolkit for Next.js 
 
   [![GitHub stars](https://img.shields.io/github/stars/blitz-js/blitz.svg?style=social)](https://github.com/blitz-js/blitz) [![GitHub issues](https://img.shields.io/github/issues/blitz-js/blitz.svg)](https://github.com/blitz-js/blitz/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/blitz-js/blitz)](https://github.com/blitz-js/blitz/commits) 
+- [quarkus](https://github.com/quarkusio/quarkus): Quarkus: Supersonic Subatomic Java.  
+
+  [![GitHub stars](https://img.shields.io/github/stars/quarkusio/quarkus.svg?style=social)](https://github.com/quarkusio/quarkus) [![GitHub issues](https://img.shields.io/github/issues/quarkusio/quarkus.svg)](https://github.com/quarkusio/quarkus/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/quarkusio/quarkus)](https://github.com/quarkusio/quarkus/commits) 
+- [micronaut](https://github.com/micronaut-projects/micronaut-core): Micronaut Application Framework 
+
+  [![GitHub stars](https://img.shields.io/github/stars/micronaut-projects/micronaut-core.svg?style=social)](https://github.com/micronaut-projects/micronaut-core) [![GitHub issues](https://img.shields.io/github/issues/micronaut-projects/micronaut-core.svg)](https://github.com/micronaut-projects/micronaut-core/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/micronaut-projects/micronaut-core)](https://github.com/micronaut-projects/micronaut-core/commits) 
 - [bud](https://github.com/livebud/bud): The Full-Stack Web Framework for Go 
 
   [![GitHub stars](https://img.shields.io/github/stars/livebud/bud.svg?style=social)](https://github.com/livebud/bud) [![GitHub issues](https://img.shields.io/github/issues/livebud/bud.svg)](https://github.com/livebud/bud/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/livebud/bud)](https://github.com/livebud/bud/commits) 
@@ -38,4 +44,4 @@ A list of popular github projects related to Fullstack web frameworks (ranked by
 ⚠️ No longer maintained ⚠️
 
 
-*Last Automatic Update: 2022-11-01T22:54:53*
+*Last Automatic Update: 2022-11-01T23:10:41*
