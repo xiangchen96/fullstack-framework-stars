@@ -19,6 +19,9 @@ A list of popular github projects related to Fullstack web frameworks (ranked by
 - [sails](https://github.com/balderdashy/sails): Realtime MVC Framework for Node.js 
 
   [![GitHub stars](https://img.shields.io/github/stars/balderdashy/sails.svg?style=social)](https://github.com/balderdashy/sails) [![GitHub issues](https://img.shields.io/github/issues/balderdashy/sails.svg)](https://github.com/balderdashy/sails/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/balderdashy/sails)](https://github.com/balderdashy/sails/commits) 
+- [remix](https://github.com/remix-run/remix): Build Better Websites. Create modern, resilient user experiences with web fundamentals. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/remix-run/remix.svg?style=social)](https://github.com/remix-run/remix) [![GitHub issues](https://img.shields.io/github/issues/remix-run/remix.svg)](https://github.com/remix-run/remix/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/remix-run/remix)](https://github.com/remix-run/remix/commits) 
 - [phoenix](https://github.com/phoenixframework/phoenix): Peace of mind from prototype to production 
 
   [![GitHub stars](https://img.shields.io/github/stars/phoenixframework/phoenix.svg?style=social)](https://github.com/phoenixframework/phoenix) [![GitHub issues](https://img.shields.io/github/issues/phoenixframework/phoenix.svg)](https://github.com/phoenixframework/phoenix/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix/commits) 
@@ -44,4 +47,4 @@ A list of popular github projects related to Fullstack web frameworks (ranked by
 ⚠️ No longer maintained ⚠️
 
 
-*Last Automatic Update: 2022-11-01T23:10:41*
+*Last Automatic Update: 2022-11-01T23:15:09*
