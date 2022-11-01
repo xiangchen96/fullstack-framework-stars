@@ -1,0 +1,11 @@
+https://github.com/adonisjs/core AdonisJS
+https://github.com/balderdashy/sails -
+https://github.com/blitz-js/blitz -
+https://github.com/django/django -
+https://github.com/dotnet/aspnetcore ASP.NET
+https://github.com/laravel/laravel -
+https://github.com/livebud/bud -
+https://github.com/meteor/meteor -
+https://github.com/phoenixframework/phoenix -
+https://github.com/rails/rails -
+https://github.com/redwoodjs/redwood -
