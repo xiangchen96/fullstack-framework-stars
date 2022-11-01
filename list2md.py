@@ -28,7 +28,8 @@ def main():
                 if r.status_code != 200:
                     raise ValueError('Can not retrieve from {}'.format(url))
                 repo = json.loads(r.content)
-                repo["name"] = name
+                if name != "-":
+                    repo["name"] = name
 
                 commit_api = 'https://api.github.com/repos/{}/commits/{}'.format(url[19:], repo['default_branch'])
 
