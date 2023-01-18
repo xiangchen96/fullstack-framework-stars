@@ -13,6 +13,7 @@ https://github.com/redwoodjs/redwood -
 https://github.com/remix-run/remix -
 https://github.com/quarkusio/quarkus -
 https://github.com/vercel/next.js -
-https://github.com/nuxt/nuxt.js -
+https://github.com/nuxt/framework Nuxt
 https://github.com/gatsbyjs/gatsby -
 https://github.com/sveltejs/kit SvelteKit
+https://github.com/withastro/astro -
