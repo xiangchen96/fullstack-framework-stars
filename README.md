@@ -19,12 +19,12 @@ A list of popular github projects related to Fullstack web frameworks (ranked by
 - [meteor](https://github.com/meteor/meteor): Meteor, the JavaScript App Platform 
 
   [![GitHub stars](https://img.shields.io/github/stars/meteor/meteor.svg?style=social)](https://github.com/meteor/meteor) [![GitHub issues](https://img.shields.io/github/issues/meteor/meteor.svg)](https://github.com/meteor/meteor/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/meteor/meteor)](https://github.com/meteor/meteor/commits) 
-- [nuxt.js](https://github.com/nuxt/nuxt.js): The Intuitive Vue(2) Framework 
-
-  [![GitHub stars](https://img.shields.io/github/stars/nuxt/nuxt.js.svg?style=social)](https://github.com/nuxt/nuxt.js) [![GitHub issues](https://img.shields.io/github/issues/nuxt/nuxt.js.svg)](https://github.com/nuxt/nuxt.js/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/nuxt/nuxt.js)](https://github.com/nuxt/nuxt.js/commits) 
 - [ASP.NET](https://github.com/dotnet/aspnetcore): ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. 
 
   [![GitHub stars](https://img.shields.io/github/stars/dotnet/aspnetcore.svg?style=social)](https://github.com/dotnet/aspnetcore) [![GitHub issues](https://img.shields.io/github/issues/dotnet/aspnetcore.svg)](https://github.com/dotnet/aspnetcore/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/dotnet/aspnetcore)](https://github.com/dotnet/aspnetcore/commits) 
+- [astro](https://github.com/withastro/astro): Build faster websites with Astro's next-gen island architecture 🏝✨ 
+
+  [![GitHub stars](https://img.shields.io/github/stars/withastro/astro.svg?style=social)](https://github.com/withastro/astro) [![GitHub issues](https://img.shields.io/github/issues/withastro/astro.svg)](https://github.com/withastro/astro/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/withastro/astro)](https://github.com/withastro/astro/commits) 
 - [sails](https://github.com/balderdashy/sails): Realtime MVC Framework for Node.js 
 
   [![GitHub stars](https://img.shields.io/github/stars/balderdashy/sails.svg?style=social)](https://github.com/balderdashy/sails) [![GitHub issues](https://img.shields.io/github/issues/balderdashy/sails.svg)](https://github.com/balderdashy/sails/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/balderdashy/sails)](https://github.com/balderdashy/sails/commits) 
@@ -49,6 +49,9 @@ A list of popular github projects related to Fullstack web frameworks (ranked by
 - [quarkus](https://github.com/quarkusio/quarkus): Quarkus: Supersonic Subatomic Java.  
 
   [![GitHub stars](https://img.shields.io/github/stars/quarkusio/quarkus.svg?style=social)](https://github.com/quarkusio/quarkus) [![GitHub issues](https://img.shields.io/github/issues/quarkusio/quarkus.svg)](https://github.com/quarkusio/quarkus/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/quarkusio/quarkus)](https://github.com/quarkusio/quarkus/commits) 
+- [Nuxt](https://github.com/nuxt/framework): Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/nuxt/framework.svg?style=social)](https://github.com/nuxt/framework) [![GitHub issues](https://img.shields.io/github/issues/nuxt/framework.svg)](https://github.com/nuxt/framework/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/nuxt/framework)](https://github.com/nuxt/framework/commits) 
 - [micronaut](https://github.com/micronaut-projects/micronaut-core): Micronaut Application Framework 
 
   [![GitHub stars](https://img.shields.io/github/stars/micronaut-projects/micronaut-core.svg?style=social)](https://github.com/micronaut-projects/micronaut-core) [![GitHub issues](https://img.shields.io/github/issues/micronaut-projects/micronaut-core.svg)](https://github.com/micronaut-projects/micronaut-core/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/micronaut-projects/micronaut-core)](https://github.com/micronaut-projects/micronaut-core/commits) 
@@ -59,4 +62,4 @@ A list of popular github projects related to Fullstack web frameworks (ranked by
 ⚠️ No longer maintained ⚠️
 
 
-*Last Automatic Update: 2023-01-18T23:31:39*
+*Last Automatic Update: 2023-01-18T23:35:28*
