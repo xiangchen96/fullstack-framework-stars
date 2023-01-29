@@ -49,7 +49,7 @@ A list of popular github projects related to Fullstack web frameworks (ranked by
 - [quarkus](https://github.com/quarkusio/quarkus): Quarkus: Supersonic Subatomic Java.  
 
   [![GitHub stars](https://img.shields.io/github/stars/quarkusio/quarkus.svg?style=social)](https://github.com/quarkusio/quarkus) [![GitHub issues](https://img.shields.io/github/issues/quarkusio/quarkus.svg)](https://github.com/quarkusio/quarkus/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/quarkusio/quarkus)](https://github.com/quarkusio/quarkus/commits) 
-- [Nuxt](https://github.com/nuxt/framework): Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3. 
+- [Nuxt](https://github.com/nuxt/framework): Old repo of Nuxt 3 framework, now on nuxt/nuxt 
 
   [![GitHub stars](https://img.shields.io/github/stars/nuxt/framework.svg?style=social)](https://github.com/nuxt/framework) [![GitHub issues](https://img.shields.io/github/issues/nuxt/framework.svg)](https://github.com/nuxt/framework/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/nuxt/framework)](https://github.com/nuxt/framework/commits) 
 - [micronaut](https://github.com/micronaut-projects/micronaut-core): Micronaut Application Framework 
@@ -62,4 +62,4 @@ A list of popular github projects related to Fullstack web frameworks (ranked by
 ⚠️ No longer maintained ⚠️
 
 
-*Last Automatic Update: 2023-01-22T08:01:18*
+*Last Automatic Update: 2023-01-29T08:01:18*
