@@ -62,4 +62,4 @@ A list of popular github projects related to Fullstack web frameworks (ranked by
 ⚠️ No longer maintained ⚠️
 
 
-*Last Automatic Update: 2023-01-29T08:01:18*
+*Last Automatic Update: 2023-02-05T08:01:11*
