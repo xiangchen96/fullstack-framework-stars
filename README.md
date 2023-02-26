@@ -25,24 +25,24 @@ A list of popular github projects related to Fullstack web frameworks (ranked by
 - [astro](https://github.com/withastro/astro): Build faster websites with Astro's next-gen island architecture 🏝✨ 
 
   [![GitHub stars](https://img.shields.io/github/stars/withastro/astro.svg?style=social)](https://github.com/withastro/astro) [![GitHub issues](https://img.shields.io/github/issues/withastro/astro.svg)](https://github.com/withastro/astro/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/withastro/astro)](https://github.com/withastro/astro/commits) 
-- [sails](https://github.com/balderdashy/sails): Realtime MVC Framework for Node.js 
-
-  [![GitHub stars](https://img.shields.io/github/stars/balderdashy/sails.svg?style=social)](https://github.com/balderdashy/sails) [![GitHub issues](https://img.shields.io/github/issues/balderdashy/sails.svg)](https://github.com/balderdashy/sails/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/balderdashy/sails)](https://github.com/balderdashy/sails/commits) 
 - [remix](https://github.com/remix-run/remix): Build Better Websites. Create modern, resilient user experiences with web fundamentals. 
 
   [![GitHub stars](https://img.shields.io/github/stars/remix-run/remix.svg?style=social)](https://github.com/remix-run/remix) [![GitHub issues](https://img.shields.io/github/issues/remix-run/remix.svg)](https://github.com/remix-run/remix/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/remix-run/remix)](https://github.com/remix-run/remix/commits) 
+- [sails](https://github.com/balderdashy/sails): Realtime MVC Framework for Node.js 
+
+  [![GitHub stars](https://img.shields.io/github/stars/balderdashy/sails.svg?style=social)](https://github.com/balderdashy/sails) [![GitHub issues](https://img.shields.io/github/issues/balderdashy/sails.svg)](https://github.com/balderdashy/sails/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/balderdashy/sails)](https://github.com/balderdashy/sails/commits) 
 - [phoenix](https://github.com/phoenixframework/phoenix): Peace of mind from prototype to production 
 
   [![GitHub stars](https://img.shields.io/github/stars/phoenixframework/phoenix.svg?style=social)](https://github.com/phoenixframework/phoenix) [![GitHub issues](https://img.shields.io/github/issues/phoenixframework/phoenix.svg)](https://github.com/phoenixframework/phoenix/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix/commits) 
 - [redwood](https://github.com/redwoodjs/redwood): The App Framework for Startups 
 
   [![GitHub stars](https://img.shields.io/github/stars/redwoodjs/redwood.svg?style=social)](https://github.com/redwoodjs/redwood) [![GitHub issues](https://img.shields.io/github/issues/redwoodjs/redwood.svg)](https://github.com/redwoodjs/redwood/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/redwoodjs/redwood)](https://github.com/redwoodjs/redwood/commits) 
-- [AdonisJS](https://github.com/adonisjs/core): 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence 
-
-  [![GitHub stars](https://img.shields.io/github/stars/adonisjs/core.svg?style=social)](https://github.com/adonisjs/core) [![GitHub issues](https://img.shields.io/github/issues/adonisjs/core.svg)](https://github.com/adonisjs/core/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/adonisjs/core)](https://github.com/adonisjs/core/commits) 
 - [SvelteKit](https://github.com/sveltejs/kit): web development, streamlined 
 
   [![GitHub stars](https://img.shields.io/github/stars/sveltejs/kit.svg?style=social)](https://github.com/sveltejs/kit) [![GitHub issues](https://img.shields.io/github/issues/sveltejs/kit.svg)](https://github.com/sveltejs/kit/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/sveltejs/kit)](https://github.com/sveltejs/kit/commits) 
+- [AdonisJS](https://github.com/adonisjs/core): 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence 
+
+  [![GitHub stars](https://img.shields.io/github/stars/adonisjs/core.svg?style=social)](https://github.com/adonisjs/core) [![GitHub issues](https://img.shields.io/github/issues/adonisjs/core.svg)](https://github.com/adonisjs/core/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/adonisjs/core)](https://github.com/adonisjs/core/commits) 
 - [blitz](https://github.com/blitz-js/blitz): ⚡️ The Missing Fullstack Toolkit for Next.js 
 
   [![GitHub stars](https://img.shields.io/github/stars/blitz-js/blitz.svg?style=social)](https://github.com/blitz-js/blitz) [![GitHub issues](https://img.shields.io/github/issues/blitz-js/blitz.svg)](https://github.com/blitz-js/blitz/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/blitz-js/blitz)](https://github.com/blitz-js/blitz/commits) 
@@ -62,4 +62,4 @@ A list of popular github projects related to Fullstack web frameworks (ranked by
 ⚠️ No longer maintained ⚠️
 
 
-*Last Automatic Update: 2023-02-19T08:01:24*
+*Last Automatic Update: 2023-02-26T08:01:34*
