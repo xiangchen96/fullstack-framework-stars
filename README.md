@@ -22,7 +22,7 @@ A list of popular github projects related to Fullstack web frameworks (ranked by
 - [ASP.NET](https://github.com/dotnet/aspnetcore): ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. 
 
   [![GitHub stars](https://img.shields.io/github/stars/dotnet/aspnetcore.svg?style=social)](https://github.com/dotnet/aspnetcore) [![GitHub issues](https://img.shields.io/github/issues/dotnet/aspnetcore.svg)](https://github.com/dotnet/aspnetcore/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/dotnet/aspnetcore)](https://github.com/dotnet/aspnetcore/commits) 
-- [astro](https://github.com/withastro/astro): Astro is the all-in-one web framework designed for speed 🏝️✨ 
+- [astro](https://github.com/withastro/astro): The all-in-one web framework designed for speed. ⭐️ Star to support our work! 
 
   [![GitHub stars](https://img.shields.io/github/stars/withastro/astro.svg?style=social)](https://github.com/withastro/astro) [![GitHub issues](https://img.shields.io/github/issues/withastro/astro.svg)](https://github.com/withastro/astro/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/withastro/astro)](https://github.com/withastro/astro/commits) 
 - [remix](https://github.com/remix-run/remix): Build Better Websites. Create modern, resilient user experiences with web fundamentals. 
@@ -62,4 +62,4 @@ A list of popular github projects related to Fullstack web frameworks (ranked by
 ⚠️ No longer maintained ⚠️
 
 
-*Last Automatic Update: 2023-03-26T08:01:25*
+*Last Automatic Update: 2023-04-02T08:01:20*
