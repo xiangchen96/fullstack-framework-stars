@@ -10,7 +10,7 @@ A list of popular github projects related to Fullstack web frameworks (ranked by
 - [django](https://github.com/django/django): The Web framework for perfectionists with deadlines. 
 
   [![GitHub stars](https://img.shields.io/github/stars/django/django.svg?style=social)](https://github.com/django/django) [![GitHub issues](https://img.shields.io/github/issues/django/django.svg)](https://github.com/django/django/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/django/django)](https://github.com/django/django/commits) 
-- [gatsby](https://github.com/gatsbyjs/gatsby): The fastest frontend for the headless web. Build modern websites with React. 
+- [gatsby](https://github.com/gatsbyjs/gatsby): The best React-based framework with performance, scalability and security built in. 
 
   [![GitHub stars](https://img.shields.io/github/stars/gatsbyjs/gatsby.svg?style=social)](https://github.com/gatsbyjs/gatsby) [![GitHub issues](https://img.shields.io/github/issues/gatsbyjs/gatsby.svg)](https://github.com/gatsbyjs/gatsby/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/gatsbyjs/gatsby)](https://github.com/gatsbyjs/gatsby/commits) 
 - [rails](https://github.com/rails/rails): Ruby on Rails 
@@ -62,4 +62,4 @@ A list of popular github projects related to Fullstack web frameworks (ranked by
 ⚠️ No longer maintained ⚠️
 
 
-*Last Automatic Update: 2023-08-27T08:01:12*
+*Last Automatic Update: 2023-09-03T08:01:06*
