@@ -19,7 +19,7 @@ A list of popular github projects related to Fullstack web frameworks (ranked by
 - [meteor](https://github.com/meteor/meteor): Meteor, the JavaScript App Platform 
 
   [![GitHub stars](https://img.shields.io/github/stars/meteor/meteor.svg?style=social)](https://github.com/meteor/meteor) [![GitHub issues](https://img.shields.io/github/issues/meteor/meteor.svg)](https://github.com/meteor/meteor/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/meteor/meteor)](https://github.com/meteor/meteor/commits) 
-- [astro](https://github.com/withastro/astro): The all-in-one web framework designed for speed. ⭐️ Star to support our work! 
+- [astro](https://github.com/withastro/astro): The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work! 
 
   [![GitHub stars](https://img.shields.io/github/stars/withastro/astro.svg?style=social)](https://github.com/withastro/astro) [![GitHub issues](https://img.shields.io/github/issues/withastro/astro.svg)](https://github.com/withastro/astro/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/withastro/astro)](https://github.com/withastro/astro/commits) 
 - [ASP.NET](https://github.com/dotnet/aspnetcore): ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. 
@@ -62,4 +62,4 @@ A list of popular github projects related to Fullstack web frameworks (ranked by
 ⚠️ No longer maintained ⚠️
 
 
-*Last Automatic Update: 2023-09-10T08:01:05*
+*Last Automatic Update: 2023-09-17T08:01:28*
