@@ -34,12 +34,12 @@ A list of popular github projects related to Fullstack web frameworks (ranked by
 - [phoenix](https://github.com/phoenixframework/phoenix): Peace of mind from prototype to production 
 
   [![GitHub stars](https://img.shields.io/github/stars/phoenixframework/phoenix.svg?style=social)](https://github.com/phoenixframework/phoenix) [![GitHub issues](https://img.shields.io/github/issues/phoenixframework/phoenix.svg)](https://github.com/phoenixframework/phoenix/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix/commits) 
-- [redwood](https://github.com/redwoodjs/redwood): The App Framework for Startups 
-
-  [![GitHub stars](https://img.shields.io/github/stars/redwoodjs/redwood.svg?style=social)](https://github.com/redwoodjs/redwood) [![GitHub issues](https://img.shields.io/github/issues/redwoodjs/redwood.svg)](https://github.com/redwoodjs/redwood/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/redwoodjs/redwood)](https://github.com/redwoodjs/redwood/commits) 
 - [SvelteKit](https://github.com/sveltejs/kit): web development, streamlined 
 
   [![GitHub stars](https://img.shields.io/github/stars/sveltejs/kit.svg?style=social)](https://github.com/sveltejs/kit) [![GitHub issues](https://img.shields.io/github/issues/sveltejs/kit.svg)](https://github.com/sveltejs/kit/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/sveltejs/kit)](https://github.com/sveltejs/kit/commits) 
+- [redwood](https://github.com/redwoodjs/redwood): The App Framework for Startups 
+
+  [![GitHub stars](https://img.shields.io/github/stars/redwoodjs/redwood.svg?style=social)](https://github.com/redwoodjs/redwood) [![GitHub issues](https://img.shields.io/github/issues/redwoodjs/redwood.svg)](https://github.com/redwoodjs/redwood/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/redwoodjs/redwood)](https://github.com/redwoodjs/redwood/commits) 
 - [AdonisJS](https://github.com/adonisjs/core): 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence 
 
   [![GitHub stars](https://img.shields.io/github/stars/adonisjs/core.svg?style=social)](https://github.com/adonisjs/core) [![GitHub issues](https://img.shields.io/github/issues/adonisjs/core.svg)](https://github.com/adonisjs/core/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/adonisjs/core)](https://github.com/adonisjs/core/commits) 
@@ -62,4 +62,4 @@ A list of popular github projects related to Fullstack web frameworks (ranked by
 ⚠️ No longer maintained ⚠️
 
 
-*Last Automatic Update: 2023-10-29T08:01:18*
+*Last Automatic Update: 2023-11-05T08:01:19*
